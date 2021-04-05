@@ -1,0 +1,24 @@
+.moviePageCard {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 100%;
+  height: auto;
+  background: #edf5e1 !important;
+  color: #05386b;
+}
+.MovieCard {
+  display: inline-block;
+}
+.MoviePageBody {
+  display: flex !important;
+  align-items: center;
+  justify-content: space-around;
+}
+.moviePageImg {
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+  height: 20%;
+  background-color: #b9fdec;
+  width: 30% !important;
+  margin-right: 30px;
+}

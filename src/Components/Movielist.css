@@ -1,0 +1,9 @@
+.hmed {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.hmed > * {
+    margin: 20px;
+    padding: 0, 10px;
+}

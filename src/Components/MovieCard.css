@@ -1,0 +1,16 @@
+.MovieImg {
+  height: 50%;
+}
+.MovieCard {
+  width: 18rem;
+  box-shadow: 0 0 7px;
+  height: 45rem;
+}
+.Movieimg {
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+  height: 100%;
+  background-color: #b9fdec;
+  width: 100%;
+  margin-right: 30px;
+}
